@@ -1,1 +1,1 @@
-# sbt-install-helper
+# Installs SBT on Ubuntu
